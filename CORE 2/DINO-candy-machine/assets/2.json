@@ -1,0 +1,28 @@
+{
+    "name": "Dino #3",
+    "symbol": "DINO",
+    "description": "The Dino is smart and colorful dino.",
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "burgundy"
+        },
+          {
+            "trait_type": "color",
+            "value": "purple"
+        },
+          {
+            "trait_type": "accessories",
+            "value": "hat"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

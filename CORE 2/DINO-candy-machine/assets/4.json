@@ -1,0 +1,24 @@
+{
+    "name": "Dino #2",
+    "symbol": "DINO",
+    "description": "The Dino is smart and colorful dino.",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "black"
+        },
+          {
+            "trait_type": "color",
+            "value": "yellow"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
